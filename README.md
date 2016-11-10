@@ -46,3 +46,15 @@ to login page if not login yet
 
 http://localhost:3000/register
 register page
+
+***Inportant****
+Need to install MySQL server in local machine
+and execute the t_user_scheme.sql under mysql_scheme to create a t_user table to login
+default username and password
+root
+root
+
+#MySQL installation
+MySQL community server and MySQL WorkBench
+Install both and create a connection in WorkBench.
+run the t_user_scheme.sql in that connection
