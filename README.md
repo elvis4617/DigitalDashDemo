@@ -58,3 +58,4 @@ root
 MySQL community server and MySQL WorkBench
 Install both and create a connection in WorkBench.
 run the t_user_scheme.sql in that connection
+and set database password 1234 to match db.js config
