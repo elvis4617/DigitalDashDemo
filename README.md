@@ -1,5 +1,5 @@
-# nodeDemo
-Express4+angularjs1.4+bootstrap3+mysql+nodejs
+# DigitalDashDemo
+ExpressJS + AngularJS + Bootstrap + NodeJS + mysql/SQLite
 
 #bin
 www service config
